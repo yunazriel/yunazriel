@@ -20,8 +20,6 @@
 
 </div>
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" style="border-radius: 15px; margin-left: 20px;">
-
 <p align="justify">
 Saya adalah <b>Muhammad Yunazriel Musyadad</b>, mahasiswa <b>Teknik Informatika dari Universitas Dian Nuswantoro (UDINUS)</b> Semarang. Sejak kelas 1 SMK, saya melihat dunia IT sebagai taman bermain tanpa batas untuk menuangkan ide dan imajinasi.
 </p>
@@ -30,15 +28,18 @@ Saya adalah <b>Muhammad Yunazriel Musyadad</b>, mahasiswa <b>Teknik Informatika 
 Saya adalah seorang <b>IT Enthusiast yang haus akan pengetahuan</b>. Meskipun fokus pada <b>Back-End Development</b>, saya senang menjelajahi berbagai bidang teknologi lainnya. Saya bukan tipe orang yang terpaku pada satu kotak—jika ada hal baru yang menarik, saya akan mempelajarinya!
 </p>
 
-<br clear="right"/>
-
 **🎯 Goals & Characteristics:**
+
 - 🔭 **Fokus Saat Ini:** Memperdalam arsitektur Back-End sambil bereksperimen dengan teknologi baru
 - 💡 **Karakter:** Antusiasme tinggi terhadap bagaimana segala sesuatu bekerja di dunia digital
 - 🧩 **Versatilitas:** Senang mengeksplorasi berbagai sisi pengembangan perangkat lunak
 - 🚀 **Misi:** Terus berkembang menjadi profesional IT yang adaptif dan solutif
 
 ---
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZxNTI2NW9vZTk2b2d3NTdodmllMG9zY25yZTNxZTJ1YzU3aW1tYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b29IZK1dP4aWs/giphy.gif" width="100%" height="200" style="border-radius: 5px;" />
+</p>
 
 <div align="center">
 
@@ -55,55 +56,42 @@ Saya adalah seorang <b>IT Enthusiast yang haus akan pengetahuan</b>. Meskipun fo
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
 </p>
 
-*Full-stack capability with strong back-end foundation*
+_Full-stack capability with strong back-end foundation_
 
-</div>
-
-<div align="center">
-
-## 📊 GitHub Analytics
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yunazriel&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunazriel&layout=compact&theme=transparent&hide_border=true&langs_count=8&title_color=58a6ff&text_color=8b949e" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yunazriel&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&currStreakNum=58a6ff&sideNums=58a6ff" width="50%" />
 </div>
 
 ---
 
 ## 📬 Get in Touch
 
-<table border="0" align="center">
+<table border="0" width="100">
   <tr>
-    <td width="50%" align="left">
-      <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" style="border-radius: 10px;">
-      
+    <td width="60%" valign="top">
+    <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" style="border-radius: 10px;">
+<br>
+
 **Connect with me:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yunazriel)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yunazriel)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ynzriel)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email-kamu@gmail.com)
 
+<br>
+
 **Open to:**
+
 - 💼 Collaboration opportunities
 - 🤝 Technical discussions
 - 📧 Project inquiries
 - 🌟 Knowledge sharing
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=yunazriel&show_icons=true&theme=transparent&hide_border=true&count_private=true&card_width=400&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
-      
+
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yunazriel&color=58a6ff&style=flat-square&label=Profile+Views)
 
-*⭐ If you find my work valuable, consider starring my repositories*
-    </td>
+_⭐ If you find my work valuable, consider starring my repositories_
+
+  </td>
   </tr>
 </table>
 
