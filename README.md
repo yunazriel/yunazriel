@@ -16,15 +16,19 @@
 
 <div align="center">
   
-### 📖 Tentang Saya
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+## 📖 Tentang Saya
 
 </div>
 
-Saya adalah **Muhammad Yunazriel Musyadad**, mahasiswa **Teknik Informatika dari Universitas Dian Nuswantoro (UDINUS)** Semarang. Sejak kelas 1 SMK, saya melihat dunia IT sebagai taman bermain tanpa batas untuk menuangkan ide dan imajinasi.
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" style="border-radius: 15px; margin-left: 20px;">
 
-Saya adalah seorang **IT Enthusiast yang haus akan pengetahuan**. Meskipun fokus pada **Back-End Development**, saya senang menjelajahi berbagai bidang teknologi lainnya. Saya bukan tipe orang yang terpaku pada satu kotak—jika ada hal baru yang menarik, saya akan mempelajarinya!
+<p align="justify">
+Saya adalah <b>Muhammad Yunazriel Musyadad</b>, mahasiswa <b>Teknik Informatika dari Universitas Dian Nuswantoro (UDINUS)</b> Semarang. Sejak kelas 1 SMK, saya melihat dunia IT sebagai taman bermain tanpa batas untuk menuangkan ide dan imajinasi.
+</p>
+
+<p align="justify">
+Saya adalah seorang <b>IT Enthusiast yang haus akan pengetahuan</b>. Meskipun fokus pada <b>Back-End Development</b>, saya senang menjelajahi berbagai bidang teknologi lainnya. Saya bukan tipe orang yang terpaku pada satu kotak—jika ada hal baru yang menarik, saya akan mempelajarinya!
+</p>
 
 <br clear="right"/>
 
@@ -38,86 +42,70 @@ Saya adalah seorang **IT Enthusiast yang haus akan pengetahuan**. Meskipun fokus
 
 <div align="center">
 
-### 🛠️ Lab Teknologi (Multi-Disciplinary Stack)
+## 🛠️ Technology Arsenal
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+**Languages • Frameworks • Databases • DevOps • Tools**
 
-**🎯 Primary Focus (Back-End & Logic)**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python,java,cpp,react,nextjs,tailwind,bootstrap,mysql,postgres,docker,ubuntu,linux,vscode,git,postman,figma&perline=10" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=php,laravel,python,mysql&perline=4" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+</p>
 
-<br><br>
+*Full-stack capability with strong back-end foundation*
 
-**🌐 The Explorer Side (Tools & Technologies)**
+</div>
 
-<img src="https://skillicons.dev/icons?i=js,git,postman,linux,figma,vscode&perline=6" />
+<div align="center">
 
+## 📊 GitHub Analytics
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yunazriel&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunazriel&layout=compact&theme=transparent&hide_border=true&langs_count=8&title_color=58a6ff&text_color=8b949e" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yunazriel&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&currStreakNum=58a6ff&sideNums=58a6ff" width="50%" />
 </div>
 
 ---
 
-<div align="center">
+## 📬 Get in Touch
 
-### 📊 Aktivitas Pengembangan (GitHub Stats)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yunazriel&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunazriel&layout=compact&theme=transparent&hide_border=true&langs_count=8&title_color=58a6ff&text_color=8b949e" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yunazriel&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&currStreakNum=58a6ff&sideNums=58a6ff" width="55%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yunazriel&theme=flat&no-frame=true&no-bg=true&column=4&margin-w=15&title_color=58a6ff" />
-</div>
-
----
-
-<div align="center">
-
-### 📫 Mari Terhubung & Berdiskusi!
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
+<table border="0" align="center">
+  <tr>
+    <td width="50%" align="left">
+      <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" style="border-radius: 10px;">
+      
+**Connect with me:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yunazriel)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yunazriel)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email-kamu@gmail.com)
 
-**💬 Terbuka untuk kolaborasi, diskusi, dan obrolan teknologi!**
-
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yunazriel/yunazriel/output/snake.svg" alt="Snake animation" width="100%" />
-</div>
-
----
-
-<div align="center">
-  
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-### 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=yunazriel&color=00d4ff&style=for-the-badge&label=VISITORS)
-
+**Open to:**
+- 💼 Collaboration opportunities
+- 🤝 Technical discussions
+- 📧 Project inquiries
+- 🌟 Knowledge sharing
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=yunazriel&show_icons=true&theme=transparent&hide_border=true&count_private=true&card_width=400&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
+      
 <br>
 
-<i>"There are no limits to what we can create when we dare to explore."</i>
+![Profile Views](https://komarev.com/ghpvc/?username=yunazriel&color=58a6ff&style=flat-square&label=Profile+Views)
 
-**⭐ From [yunazriel](https://github.com/yunazriel) with 💙**
-
-<sub>If you like my work, consider giving a star! ⭐</sub>
-
-</div>
+*⭐ If you find my work valuable, consider starring my repositories*
+    </td>
+  </tr>
+</table>
 
 ---
 
