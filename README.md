@@ -40,9 +40,9 @@ Saya adalah seorang <b>IT Enthusiast yang haus akan pengetahuan</b>. Meskipun fo
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZxNTI2NW9vZTk2b2d3NTdodmllMG9zY25yZTNxZTJ1YzU3aW1tYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b29IZK1dP4aWs/giphy.gif" width="100%" height="200" style="border-radius: 5px;" />
-</p>
+</p> -->
 
 <div align="center">
 
