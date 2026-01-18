@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=200&section=header&text=Muhammad%20Yunazriel%20Musyadad&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" />
   
   <br>
@@ -10,7 +10,10 @@
   <p align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Coding GIF" />
   </p>
-</div>
+</div> -->
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZxNTI2NW9vZTk2b2d3NTdodmllMG9zY25yZTNxZTJ1YzU3aW1tYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b29IZK1dP4aWs/giphy.gif" width="100%" height="200" style="border-radius: 5px;" />
+</p>
 
 ---
 
