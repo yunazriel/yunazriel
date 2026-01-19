@@ -1,48 +1,31 @@
-<!-- <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=200&section=header&text=Muhammad%20Yunazriel%20Musyadad&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" />
-  
-  <br>
-
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00d4ff&center=true&vCenter=true&width=600&lines=IT+Enthusiast+%26+Tech+Explorer+🚀;Back-End+Oriented+Developer+💻;Full-Stack+Curiosity+🌐;Informatics+Student+%40+UDINUS+🎓" alt="Typing SVG" />
-  </p>
-  
-  <p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Coding GIF" />
-  </p>
-</div> -->
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZxNTI2NW9vZTk2b2d3NTdodmllMG9zY25yZTNxZTJ1YzU3aW1tYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b29IZK1dP4aWs/giphy.gif" width="100%" height="200" style="border-radius: 5px;" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZxNTI2NW9vZTk2b2d3NTdodmllMG9zY25yZTNxZTJ1YzU3aW1tYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b29IZK1dP4aWs/giphy.gif" width="100%" height="200" style="border-radius: 5px;" />
 </p>
 
 ---
 
 <div align="center">
   
-## 📖 Tentang Saya
+## 📖 About Me
 
 </div>
 
 <p align="justify">
-Saya adalah <b>Muhammad Yunazriel Musyadad</b>, mahasiswa <b>Teknik Informatika dari Universitas Dian Nuswantoro (UDINUS)</b> Semarang. Sejak kelas 1 SMK, saya melihat dunia IT sebagai taman bermain tanpa batas untuk menuangkan ide dan imajinasi.
+I'm <b>Muhammad Yunazriel Musyadad</b>, an <b>Informatics Engineering student at Universitas Dian Nuswantoro (UDINUS)</b> Semarang. Since my first year of vocational high school, I've seen the IT world as a limitless playground for pouring out ideas and imagination.
 </p>
 
 <p align="justify">
-Saya adalah seorang <b>IT Enthusiast yang haus akan pengetahuan</b>. Meskipun fokus pada <b>Back-End Development</b>, saya senang menjelajahi berbagai bidang teknologi lainnya. Saya bukan tipe orang yang terpaku pada satu kotak—jika ada hal baru yang menarik, saya akan mempelajarinya!
+I'm an <b>IT Enthusiast with a thirst for knowledge</b>. Although I focus on <b>Back-End Development</b>, I enjoy exploring various other technology fields. I'm not the type of person who sticks to one box—if there's something new and interesting, I'll learn it!
 </p>
 
 **🎯 Goals & Characteristics:**
 
-- 🔭 **Fokus Saat Ini:** Memperdalam arsitektur Back-End sambil bereksperimen dengan teknologi baru
-- 💡 **Karakter:** Antusiasme tinggi terhadap bagaimana segala sesuatu bekerja di dunia digital
-- 🧩 **Versatilitas:** Senang mengeksplorasi berbagai sisi pengembangan perangkat lunak
-- 🚀 **Misi:** Terus berkembang menjadi profesional IT yang adaptif dan solutif
+- 🔭 **Current Focus:** Deepening Back-End architecture while experimenting with new technologies
+- 💡 **Character:** High enthusiasm for how everything works in the digital world
+- 🧩 **Versatility:** Love exploring various sides of software development
+- 🚀 **Mission:** Continuously growing into an adaptive and solution-oriented IT professional
 
 ---
-
-<!-- <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZxNTI2NW9vZTk2b2d3NTdodmllMG9zY25yZTNxZTJ1YzU3aW1tYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b29IZK1dP4aWs/giphy.gif" width="100%" height="200" style="border-radius: 5px;" />
-</p> -->
 
 <div align="center">
 
@@ -65,19 +48,33 @@ _Full-stack capability with strong back-end foundation_
 
 ---
 
-## 📬 Get in Touch
+<div align="center">
 
-<table border="0" width="100">
-  <tr>
-    <td width="60%" valign="top">
-    <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" style="border-radius: 10px;">
+## 📊 GitHub Stats
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yunazriel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunazriel&layout=compact&langs_count=8&theme=tokyonight"/>
+
 <br>
 
+</div>
+
+---
+
+## 📬 Get in Touch
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="100%" style="border-radius: 10px;">
+    </td>
+    <td width="50%" valign="top">
+      
 **Connect with me:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yunazriel)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ynzriel)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email-kamu@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yunazriel@example.com)
 
 <br>
 
@@ -94,7 +91,7 @@ _Full-stack capability with strong back-end foundation_
 
 _⭐ If you find my work valuable, consider starring my repositories_
 
-  </td>
+    </td>
   </tr>
 </table>
 
