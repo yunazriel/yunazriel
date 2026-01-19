@@ -57,6 +57,8 @@ _Full-stack capability with strong back-end foundation_
 
 <br>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yunazriel&theme=tokyonight" alt="GitHub Streak" />
+
 </div>
 
 ---
@@ -91,7 +93,7 @@ _Full-stack capability with strong back-end foundation_
 
 _⭐ If you find my work valuable, consider starring my repositories_
 
-    </td>
+</td>
   </tr>
 </table>
 
