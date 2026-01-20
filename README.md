@@ -102,3 +102,4 @@ _⭐ If you find my work valuable, consider starring my repositories_
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=100&section=footer" width="100%"/>
 </div>
+
