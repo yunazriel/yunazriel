@@ -52,12 +52,12 @@ _Full-stack capability with strong back-end foundation_
 
 ## 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yunazriel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunazriel&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yunazriel&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="yunazriel's GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunazriel&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="yunazriel's GitHub Stats" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yunazriel&theme=tokyonight" alt="GitHub Streak" />
+<img height="180em" src="https://streak-stats.demolab.com?user=yunazriel&theme=tokyonight&hide_border=true" />
 
 </div>
 
