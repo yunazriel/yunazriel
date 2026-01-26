@@ -15,7 +15,7 @@ I'm <b>Muhammad Yunazriel Musyadad</b>, an <b>Informatics Engineering student at
 </p>
 
 <p align="justify">
-I'm an <b>IT Enthusiast with a thirst for knowledge</b>. Although I focus on <b>Back-End Development</b>, I enjoy exploring various other technology fields. I'm not the type of person who sticks to one box—if there's something new and interesting, I'll learn it!
+I'm an <b>IT Enthusiast with a thirst for knowledge</b>. Although I focus on <b>Back-End Development</b>, I enjoy exploring various other technology fields. I'm not the type of person who sticks to one box if there's something new and interesting, I'll learn it!
 </p>
 
 **🎯 Goals & Characteristics:**
