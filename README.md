@@ -50,18 +50,18 @@ _Full-stack capability with strong back-end foundation_
 
 <div align="center">
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats -->
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yunazriel&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" style="border-radius: 15px;" />
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yunazriel&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" style="border-radius: 15px;" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunazriel&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" style="border-radius: 15px;" />
 
 <br>
 
 <img height="180em" src="https://streak-stats.demolab.com?user=yunazriel&theme=tokyonight&hide_border=true" style="border-radius: 15px;" />
 
-</div>
+</div> -->
 
----
+<!-- --- -->
 
 ## 📬 Get in Touch
 
